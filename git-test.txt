@@ -1,3 +1,6 @@
 """
 a test file to practice using git
 """
+"""
+function 1
+"""
