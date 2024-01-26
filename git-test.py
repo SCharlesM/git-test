@@ -7,3 +7,6 @@ function 1
 """
 function 2
 """
+"""
+funtion 3
+"""
